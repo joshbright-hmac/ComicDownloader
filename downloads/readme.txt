@@ -1,0 +1,1 @@
+This folder is here to put comics into that we download.  This file is here to be sure the folder is saved in git.
