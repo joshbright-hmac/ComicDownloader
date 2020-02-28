@@ -147,7 +147,8 @@ def main():
             try:
                 status[result["status"]] += 1
             except KeyError:
-                print(result)
+                # print(result)
+                pass
             if result["status"] == "failed":
                 status["failed_files"].append(result["name"])
 
